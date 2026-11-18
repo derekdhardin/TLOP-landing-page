@@ -10,11 +10,16 @@
     src: url(/fonts/Roboto-Black.ttf);
 }
 
+nav {
+    display: flex;
+
+    justify-content: space-between;
+}
+
 .navigation {
     background-color: #1F2937;
 
-    display:flex;
-
+    padding:20px;
 }
 
 .left-side {
@@ -22,6 +27,12 @@
     font-size: 24px;
     color: #F9FAF8;
 
+}
+
+.right-side {
+    color:#F9FAF8;
+    font-family: "Roboto";
+    font-weight: lighter;
 }
 
 ul {
