@@ -5,9 +5,10 @@
 }
 
 /* Regular font */
-@font-face {
-    font-family: "Roboto";
-    src: url(/fonts/Roboto-Black.ttf);
+
+.roboto-font {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
 }
 
 nav {
@@ -24,6 +25,7 @@ nav {
 
 .left-side {
     font-family: "Roboto";
+    font-weight: 800;
     font-size: 24px;
     color: #F9FAF8;
 
@@ -32,7 +34,8 @@ nav {
 .right-side {
     color:#F9FAF8;
     font-family: "Roboto";
-    font-weight: lighter;
+    font-size:24px;
+    font-weight:200;
 }
 
 ul {
