@@ -36,6 +36,8 @@ nav {
     font-family: "Roboto";
     font-size:24px;
     font-weight:200;
+
+    display:flex;
 }
 
 ul {
