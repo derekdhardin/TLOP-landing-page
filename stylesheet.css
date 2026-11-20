@@ -131,3 +131,14 @@ main-wrapper {
     margin: 20px;
 
 }
+
+.item-text-description {
+    display:flex;
+    justify-content: center;
+
+}
+
+.item-text-description p {
+    font-family: "Roboto";
+    font-size: 14px;
+}
