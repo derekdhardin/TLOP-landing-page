@@ -103,3 +103,19 @@ main-wrapper {
 .hero-section-image img {
     width: 400px;
 }
+
+.pictures {
+    display:flex;
+    justify-content: center;
+}
+
+ .item-one, .item-two, .item-three, .item-four {
+    border: solid 4px #397cf3;
+    border-radius: 20px;
+    
+    width:200px;
+    height: 200px;
+    margin: 20px;
+
+    
+}
