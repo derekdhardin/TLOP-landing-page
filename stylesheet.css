@@ -53,3 +53,17 @@ header {
 
     background-color: #1F2937;
 }
+
+main-wrapper {
+    display:flex;
+    justify-content:center;
+}
+
+.hero-section {
+    display:flex;
+    justify-content: space-around;
+}
+
+.hero-section-image img {
+    width: 400px;
+}
