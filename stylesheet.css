@@ -122,7 +122,7 @@ main-wrapper {
 }
 
 
- .item-one, .item-two, .item-three, .item-four {
+.item-one, .item-two, .item-three, .item-four {
     border: solid 4px #397cf3;
     border-radius: 20px;
 
@@ -141,4 +141,8 @@ main-wrapper {
 .item-text-description p {
     font-family: "Roboto";
     font-size: 14px;
+
+    width: 200px;
+    margin: 20px;
+
 }
