@@ -136,6 +136,7 @@ main-wrapper {
     display:flex;
     justify-content: center;
 
+    padding-bottom: 120px;
 }
 
 .item-text-description p {
@@ -144,5 +145,26 @@ main-wrapper {
 
     width: 200px;
     margin: 20px;
+
+}
+
+.quote {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    
+}
+
+.text p {
+    padding-top: 120px;
+    width: 800px;
+
+    background-color: #E5E7EB;
+
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1F2937;
 
 }
