@@ -148,12 +148,12 @@ main-wrapper {
 
 }
 
-.quote {
-    display: flex;
+.testimonial {
+    display:flex;
     justify-content: center;
     background-color: #E5E7EB;
-    
 }
+
 
 .text p {
     padding-top: 120px;
@@ -167,4 +167,14 @@ main-wrapper {
     font-style: italic;
     color: #1F2937;
 
+}
+
+.author {
+    font-family: "Roboto";
+    font-weight: 800;
+    font-size: 18px;
+    display: flex;
+    flex-direction: column;
+    align-items: end; 
+    padding-bottom: 98px;
 }
