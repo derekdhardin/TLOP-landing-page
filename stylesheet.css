@@ -178,3 +178,28 @@ main-wrapper {
     align-items: end; 
     padding-bottom: 98px;
 }
+
+.call-to-action-section {
+    display:flex;
+
+    margin-top: 100px;
+
+    justify-content: center;
+
+    margin-bottom: 75px;
+}
+
+.box-container {
+    background-color: #3882F6;
+    width: 1200px;
+    height: 200px;
+    
+}
+
+.left-side {
+    margin: 75px;
+}
+
+.left-side p {
+    font-weight: 300;
+}
